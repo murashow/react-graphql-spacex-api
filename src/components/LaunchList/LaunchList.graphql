@@ -1,0 +1,5 @@
+query getPastLaunches($limit: Int) {
+    launchesPast(limit: $limit) {
+        ...LaunchItem
+    }
+}
