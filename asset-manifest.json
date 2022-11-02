@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-graphql-spacex-api/static/css/main.5f79879c.css",
+    "main.js": "/react-graphql-spacex-api/static/js/main.e3334623.js",
+    "static/media/bg.jpg": "/react-graphql-spacex-api/static/media/bg.c85a30cfb40f5e3b4bf1.jpg",
+    "index.html": "/react-graphql-spacex-api/index.html",
+    "static/media/logo.svg": "/react-graphql-spacex-api/static/media/logo.f94464e141337a27a2438fcf14ffdd3e.svg",
+    "main.5f79879c.css.map": "/react-graphql-spacex-api/static/css/main.5f79879c.css.map",
+    "main.e3334623.js.map": "/react-graphql-spacex-api/static/js/main.e3334623.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5f79879c.css",
+    "static/js/main.e3334623.js"
+  ]
+}
